@@ -56,8 +56,8 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          npx browserslist@latest --update-db && \
           cd themes/blist/exampleSite && \
+          npx browserslist@latest --update-db && \
           npm install && \
           npm i -g postcss-cli && \
           hugo --themesDir ../.. \
