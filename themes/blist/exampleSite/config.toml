@@ -2,6 +2,7 @@ baseurl = "https://merryhunter.github.io"
 metaDataFormat = "yaml"
 title = "Tech blog"
 theme = "blist"
+googleAnalytics = 'G-NG3EJCXD7J'
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = false

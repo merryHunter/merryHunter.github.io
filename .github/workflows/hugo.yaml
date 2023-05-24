@@ -60,7 +60,7 @@ jobs:
           npx browserslist@latest --update-db && \
           npm install && \
           npm i -g postcss-cli && \
-          hugo --themesDir ../.. \
+          hugo --themesDir ../../ \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
