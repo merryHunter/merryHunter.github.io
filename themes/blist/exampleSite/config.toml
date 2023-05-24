@@ -1,6 +1,6 @@
 baseurl = "https://merryhunter.github.io"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "Ivan Chernukha blog"
 theme = "blist"
 
 DefaultContentLanguage = "en"
@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey, I'm Ivan Chernukha."
       introSubtitle = "Let's put AI to do the work :)"
-      introPhoto = "/picture.jpg"
+      introPhoto = "/ava_prof_cropped.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
