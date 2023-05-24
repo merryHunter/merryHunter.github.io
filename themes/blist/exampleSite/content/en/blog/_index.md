@@ -1,4 +1,4 @@
 ---
-author: Katheryn Fox
+author: Ivan Chernukha
 title: Blog
 ---

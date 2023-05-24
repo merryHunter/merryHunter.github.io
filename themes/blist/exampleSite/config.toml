@@ -1,10 +1,10 @@
 baseurl = "https://merryhunter.github.io"
 metaDataFormat = "yaml"
-title = "Ivan Chernukha blog"
+title = "Tech blog"
 theme = "blist"
 
 DefaultContentLanguage = "en"
-DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = false
 [languages]
   [languages.en]
     contentDir = "content/en" #English
@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "Hey, I'm Ivan Chernukha."
       introSubtitle = "Let's put AI to do the work :)"
       introPhoto = "/ava_prof_cropped.jpg"
-      logo = "/blist-logo.png"
+      # logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -31,64 +31,10 @@ DefaultContentLanguageInSubdir = true
         weight = 3
 
     [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
+        name = "Contact"
+        url = "page/contact/"
         weight = 4
 
-  [languages.de]
-    contentDir = "content/de" # Deutsch
-    weight = 2
-    languageName = "Deutsch"
-    title = "Blist (mehrsprachig)"
-    description = "Modernes Blog-Theme für Ihre Hugo-Site."
-    [languages.de.params]
-      introTitle = "Hallo, ich bin Katheryn Fox"
-      introSubtitle = "26-jährige Junior-Entwicklerin, die Spaß an sozialen Kartenspielen, Bloggen und Malen hat"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo-de.png"
-    [[languages.de.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
-
-    [[languages.de.menu.main]]
-        name = "Über mich"
-        url = "page/about/"
-        weight = 2
-
-    [[languages.de.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-        
-  [languages.fr]
-    contentDir = "content/fr" #French
-    weight = 1
-    languageName = "Français"
-    [languages.fr.params]
-      introTitle = "Salut! Je suis Katheryn Fox"
-      introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
-    [[languages.fr.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
-
-    [[languages.fr.menu.main]]
-        name = "À propos"
-        url = "page/about/"
-        weight = 2
-
-    [[languages.fr.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-        
-  [languages.dy]
-    contentDir = "content/dy" #Example language
-    weight = 3
-    languageName = "Test Language"
 
 [params]
   # Enable the darkmode toggle in header
@@ -112,13 +58,13 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+  copyright = "Copyright © 2023 - Ivan Chernukha · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
   # Reference: https://tailwindcss.com/docs/customizing-colors
-  ascentColor = "bg-blue-100"
+  ascentColor = "bg-white"
 
   # The page bundle that is shown on the front page
   frontBundle = "blog"
@@ -129,7 +75,7 @@ DefaultContentLanguageInSubdir = true
 
   # To hide "Other languages" option if the post is available in multiple languages
   # Can be used at site level or page level
-  hideOtherLanguages = false
+  hideOtherLanguages = true
 
   # Add support for Table of contents
   # Can be added to a page level also in markdown frontmatter
@@ -166,62 +112,20 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  description = "And feel free to contact at chernukha.ivan@gmail.com"
 
   [[params.homepage.social.icons]]
     website = "twitter"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/chernukhaivan"
   [[params.homepage.social.icons]]
     website = "linkedin"
-    url = "https://linkedin.com/in/"
-  [[params.homepage.social.icons]]
-    website = "xing"
-    url = "https://www.xing.com/profile/"
-  [[params.homepage.social.icons]]
-    website = "telegram"
-    url = "https://t.me/"
+    url = "https://www.linkedin.com/in/ivan-chernukha"
   [[params.homepage.social.icons]]
     website = "github"
-    url = "https://github.com/"
-  [[params.homepage.social.icons]]
-    website = "buymeacoffee"
-    url = "https://www.buymeacoffee.com/"
+    url = "https://github.com/merryHunter"
   [[params.homepage.social.icons]]
     website = "medium"
-    url = "https://medium.com/"
-  [[params.homepage.social.icons]]
-    website = "reddit"
-    url = "https://reddit.com/"
-  [[params.homepage.social.icons]]
-    website = "dribbble"
-    url = "https://dribbble.com/"
-  [[params.homepage.social.icons]]
-    website = "stackoverflow"
-    url = "https://stackoverflow.com/"
-  [[params.homepage.social.icons]]
-    website = "xda"
-    url = "https://forum.xda-developers.com/"
-  [[params.homepage.social.icons]]
-    website = "tiktok"
-    url = "https://tiktok.com"
-  [[params.homepage.social.icons]]
-    website = "googlescholar"
-    url = "https://scholar.google.com/"
-  [[params.homepage.social.icons]]
-    website = "mastodon"
-    url = "https://joinmastodon.org"
-  [[params.homepage.social.icons]]
-    website = "youtube"
-    url = "https://youtube.com"
-  [[params.homepage.social.icons]]
-    website = "instagram"
-    url = "https://instagram.com"
-  [[params.homepage.social.icons]]
-    website = "facebook"
-    url = "https://facebook.com"
-  [[params.homepage.social.icons]]
-    website = "behance"
-    url = "https://behance.net"
+    url = "https://medium.com/@ivanchernuha"
 
 [[menu.main]]
   name = "About"

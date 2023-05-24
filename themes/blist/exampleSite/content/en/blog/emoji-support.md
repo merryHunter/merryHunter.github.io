@@ -1,7 +1,7 @@
 ---
 author: "Ivan Chernukha"
 title: "Nvidia Jetson Demo"
-date: 2021-07-15
+date: 2023-05-23
 description: "Guide to emoji usage in Hugo"
 tags: ["emoji"]
 thumbnail: https://picsum.photos/id/1050/400/250
