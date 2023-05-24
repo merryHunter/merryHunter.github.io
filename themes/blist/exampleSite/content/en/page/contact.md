@@ -6,4 +6,4 @@ description:
 keywords: ["about", "contact"]
 type: about
 ---
-My contact information ...
+Contact me at chernukha.ivan@gmail.com or reach out at LinkedIn.
