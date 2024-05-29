@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tech blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 Guide for Azure Certification AI-102 AI Engineer</title>
+      <link>http://localhost:1313/blog/azure_ai_engineer_2024/azure_ai_engineer_2024/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/azure_ai_engineer_2024/azure_ai_engineer_2024/</guid>
+      <description>In May 2024, I gained Azure Fundamentals and Azure AI Engineer certifications. I have been working with Azure for 10 months so far and I spent around 3 days of preparation and scored 854. Here are my tips on how to be more prepared and what you should do during the exam.&#xA;Tip 1: Start from exam readiness zone Go to read&#xA;Tip 2: Review FAQ sections Tip 3: Pay attention to SDK and services JSON responses Tip 4: Most important - use Microsoft Learn during exam!</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>I am AI consultant with a deep software engineering background. I have been developing ML applications since 2016 for startups and Fortune 500 companies and worked with many cross-functional team on AI software from the investigation phase and solution design to release in production. In the past I mostly worked on projects that involved computer vision, robotics, MLOps and AWS.&#xA;My top tools are: Python, C++14, AWS, ROS2, Bash, PyTorch.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/page/contact/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/contact/</guid>
+      <description>Contact me at chernukha.ivan@gmail.com&#xD;or reach out at LinkedIn.</description>
+    </item>
+    <item>
+      <title>Nvidia Jetson Demo</title>
+      <link>http://localhost:1313/blog/jetson/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/jetson/</guid>
+      <description>Jetson benchmak blah blah blah &amp;hellip; .emoji { font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols; } </description>
+    </item>
+  </channel>
+</rss>

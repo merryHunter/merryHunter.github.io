@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure on Tech blog</title>
+    <link>http://localhost:1313/tags/azure/</link>
+    <description>Recent content in Azure on Tech blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tips on Azure Certification AI-102 AI Engineer</title>
+      <link>http://localhost:1313/blog/azure_ai_engineer_2024/azure_ai_engineer_2024/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/azure_ai_engineer_2024/azure_ai_engineer_2024/</guid>
+      <description> In May 2024, I gained Azure Fundamentals and Azure AI Engineer certifications. I spent around 3 days of preparation and scored 854. Here are my tips on how to be more prepared and what you should do during the exam.&#xA;Tip 1 </description>
+    </item>
+  </channel>
+</rss>
