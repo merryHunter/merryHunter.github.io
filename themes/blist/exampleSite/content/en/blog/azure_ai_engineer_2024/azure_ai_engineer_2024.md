@@ -34,7 +34,11 @@ This is something you won't know unless you take the exam, but Microsoft actuall
    
 Last but not least, as Azure AI Services are rapidly evolving, pay attention to newly introduced services, like AI Content Safety.
 
+![good luck](https://msdynamicsworld.com/sites/default/files/styles/400w/public/2023-12/sparkler-dark-background.jpg?itok=pQop5D9d_)
+
 Good luck at your exam!
+
+
 <!-- {{< css.inline >}}
 <style>
   .prose img {
