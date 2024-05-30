@@ -4,11 +4,11 @@ title: "2024 Guide for Azure AI Engineer Certification (AI-102)"
 date: 2024-05-29
 description: "Sharing my learning on how to prepare for Azure certification more efficiently in 2024"
 tags: ["azure", "certification", "tips"]
-# thumbnail: https://miro.medium.com/v2/resize:fit:720/format:webp/1*OtoFLnKYYOP9VUeiOxWfNQ.jpeg
+thumbnail: https://msdynamicsworld.com/sites/default/files/styles/400w/public/2023-12/sparkler-dark-background.jpg?itok=pQop5D9d_
 ---
 
 ---
-I have been working with Azure for 10 months so far and I spent around 3 days of preparation and scored 854. During those days, I followed [Microsoft Learn AI Engineer Path](https://learn.microsoft.com/en-us/training/career-paths/ai-engineer), however I encourage everyone to go one step deeper in order to pass exam successfully. Here are my tips on how to be more prepared and what you should do during the exam.
+I have been working with Azure for 10 months so far, then spent around 3 days of preparation, and passed with a score 854. During those days, I followed [Microsoft Learn AI Engineer Path](https://learn.microsoft.com/en-us/training/career-paths/ai-engineer), however I encourage everyone to go one step deeper in order to pass exam successfully. Here are my tips on how to be more prepared and what you **should do during the exam**.
 
 ![Exam meme](https://images3.memedroid.com/images/UPLOADED459/5a8c203728861.jpeg)
 
@@ -18,7 +18,7 @@ Identify gaps in your knowledge of AI Services with [Exam prep video series](htt
 
 ### Tip 2: Review FAQ sections
 
-Every AI Service has FAQ section which contains valuable information about practical tips or instructions on how to use service under certain conditions. For instance, how to improve Language Understanding model if it throws too many false positives, or how to enable multie language mode in Video Indexer, or which options to choose for training models.
+Every AI Service has FAQ section which contains valuable information about practical tips or instructions on how to use service under certain conditions. For instance, how to improve Language Understanding model if it throws too many false positives, or how to enable multiple language mode in Video Indexer, or which options to choose for training models.
 
 ### Tip 3: Pay attention to SDK and services JSON responses
 
@@ -30,11 +30,9 @@ At least skim through how to use Azure CLI for invoking AI Services, what fields
 
 This is something you won't know unless you take the exam, but Microsoft actually lets you use reference documentation during the exam!
 
- And this comes extremely helpful. It does not mean you will easily find all answers, but it will certainly help you verify if you are doubtfull about answers and fix mistakes. I recommend using it at the end of the exam for questions you mark "for review", and during case studies (as you cannot revisit them).
+ And this comes extremely helpful. It does not mean you will easily find all answers, but it will certainly help you verify if you are doubtful about answers and fix mistakes. I recommend using it at the end of the exam for questions you mark "for review", and during case studies (as you cannot revisit them).
    
 Last but not least, as Azure AI Services are rapidly evolving, pay attention to newly introduced services, like AI Content Safety.
-
-![good luck](https://msdynamicsworld.com/sites/default/files/styles/400w/public/2023-12/sparkler-dark-background.jpg?itok=pQop5D9d_)
 
 Good luck at your exam!
 
