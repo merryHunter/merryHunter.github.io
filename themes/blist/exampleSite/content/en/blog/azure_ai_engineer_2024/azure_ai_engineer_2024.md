@@ -9,7 +9,7 @@ thumbnail: https://msdynamicsworld.com/sites/default/files/styles/400w/public/20
 
 ---
 I have been working with Azure for 10 months so far, then spent around 3 days of preparation, and passed with a score 854. During those days, I followed [Microsoft Learn AI Engineer Path](https://learn.microsoft.com/en-us/training/career-paths/ai-engineer), however I encourage everyone to go one step deeper in order to pass exam successfully. Here are my tips on how to be more prepared and what you **should do during the exam**.
-
+{{ template "_internal/google_analytics.html" . }}
 ![Exam meme](https://images3.memedroid.com/images/UPLOADED459/5a8c203728861.jpeg)
 
 ### Tip 1: Start from exam readiness zone

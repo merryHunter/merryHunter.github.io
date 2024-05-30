@@ -6,7 +6,7 @@ description:
 keywords: ["about", "contact"]
 type: about
 ---
-
+{{ template "_internal/google_analytics.html" . }}
 I am AI consultant with a deep software engineering background. I have been developing ML applications since 2016 for startups and Fortune 500 companies and worked with many cross-functional team on AI software from the investigation phase and solution design to release in production.
 In the past I mostly worked on projects that involved computer vision, robotics, MLOps and AWS.  
 
