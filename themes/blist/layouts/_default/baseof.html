@@ -3,9 +3,12 @@
   {{- partial "head.html" . -}}
   <body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen">
     {{- partial "header.html" . -}}
+    
     <main class="flex-1">
     {{- block "main" . }}{{- end }}
-    </main>
+    
+  </main>
     {{- partial "footer.html" . -}}
+    {{ partial "cookie-consent.html" . }}
   </body>
 </html>

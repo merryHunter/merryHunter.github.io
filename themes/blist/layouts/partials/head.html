@@ -63,4 +63,25 @@
   {{ if gt (len .Site.Languages) 1}}
   <meta name="lang" content="{{ .Site.Language }}" />
   {{ end }}
+<!-- Google Analytics with Consent Mode -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HSHSQC7HBK"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    // Configure default consent state
+    gtag('consent', 'default', {
+        'analytics_storage': 'denied',
+        'ad_storage': 'denied',
+        'wait_for_update': 500
+    });
+
+    // Initialize analytics with configuration
+    gtag('config', 'G-HSHSQC7HBK', {
+        'anonymize_ip': true
+    });
+</script>
+
 </head>

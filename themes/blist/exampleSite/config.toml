@@ -2,7 +2,8 @@ baseurl = "https://merryhunter.github.io"
 metaDataFormat = "yaml"
 title = "Tech blog"
 theme = "blist"
-googleAnalytics = 'G-NG3EJCXD7J'
+googleAnalytics = 'G-HSHSQC7HBK'
+
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = false
@@ -59,7 +60,7 @@ DefaultContentLanguageInSubdir = false
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2023 - Ivan Chernukha · All rights reserved"
+  copyright = "Copyright © 2025 - Ivan Chernukha · All rights reserved"
   favicon = "/favicon.jpg"
 
   # Color for the intro details and social links block, not applicable for dark mode

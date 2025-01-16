@@ -1,0 +1,11 @@
+.hidden {
+    display: none;
+} 
+
+#cookie-consent {
+    z-index: 50;
+}
+
+#cookie-settings {
+    z-index: 100;
+}

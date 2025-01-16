@@ -172,3 +172,81 @@ function executeSearch(term) {
     last = list.lastChild.firstElementChild; // last result container — used for checking against keyboard up/down location
   }
 }
+// Consent states object
+const consentStates = {
+  analytics: {
+      granted: 'granted',
+      denied: 'denied'
+  }
+};
+
+// Initialize Google's consent mode
+function initializeConsent() {
+  // Set default consent states
+  gtag('consent', 'default', {
+      'analytics_storage': 'denied',
+      'ad_storage': 'denied'
+  });
+
+  // Check for existing consent
+  const storedConsent = localStorage.getItem('cookieConsent');
+  if (storedConsent) {
+      const consentSettings = JSON.parse(storedConsent);
+      updateConsent(consentSettings);
+  } else {
+      showConsentBanner();
+  }
+}
+
+// Show the consent banner
+function showConsentBanner() {
+  document.getElementById('cookie-consent').classList.remove('hidden');
+}
+
+// Show cookie settings modal
+function showCookieSettings() {
+  document.getElementById('cookie-settings').classList.remove('hidden');
+  // Load saved preferences if they exist
+  const storedConsent = localStorage.getItem('cookieConsent');
+  if (storedConsent) {
+      const settings = JSON.parse(storedConsent);
+      document.getElementById('analytics-consent').checked = 
+          settings.analytics_storage === 'granted';
+  }
+}
+
+// Accept all cookies
+function acceptAllCookies() {
+  const consentSettings = {
+      analytics_storage: 'granted',
+      ad_storage: 'denied'  // Keep ads denied by default
+  };
+  updateConsent(consentSettings);
+  hideConsentUI();
+}
+
+// Save specific cookie preferences
+function saveCookiePreferences() {
+  const analyticsConsent = document.getElementById('analytics-consent').checked;
+  const consentSettings = {
+      analytics_storage: analyticsConsent ? 'granted' : 'denied',
+      ad_storage: 'denied'  // Keep ads denied by default
+  };
+  updateConsent(consentSettings);
+  hideConsentUI();
+}
+
+// Update consent state
+function updateConsent(settings) {
+  gtag('consent', 'update', settings);
+  localStorage.setItem('cookieConsent', JSON.stringify(settings));
+}
+
+// Hide consent UI elements
+function hideConsentUI() {
+  document.getElementById('cookie-consent').classList.add('hidden');
+  document.getElementById('cookie-settings').classList.add('hidden');
+}
+
+// Initialize when the page loads
+document.addEventListener('DOMContentLoaded', initializeConsent);
