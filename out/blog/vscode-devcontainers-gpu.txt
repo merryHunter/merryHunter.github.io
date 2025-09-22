@@ -1,0 +1,59 @@
+1:"$Sreact.fragment"
+2:I[80492,["/_next/static/chunks/0ec58925ab9b3aca.js"],"ThemeProvider"]
+3:I[70119,["/_next/static/chunks/0ec58925ab9b3aca.js"],"Header"]
+4:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+5:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+7:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"OutletBoundary"]
+9:I[11533,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"AsyncMetadataOutlet"]
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"ViewportBoundary"]
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[68027,["/_next/static/chunks/0ec58925ab9b3aca.js"],"default"]
+:HL["/_next/static/chunks/127656ccb8f4e71c.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"E8uiGR3emB3Mv5bvZgPDP","p":"","c":["","blog","vscode-devcontainers-gpu"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","vscode-devcontainers-gpu","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/127656ccb8f4e71c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0ec58925ab9b3aca.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased min-h-screen flex flex-col","children":["$","$L2",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-grow","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-auto border-t border-gray-200 dark:border-gray-800","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8","children":["$","div",null,{"className":"text-center","children":[["$","p",null,{"className":"text-sm text-gray-600 dark:text-gray-400","children":["© ",2025," Ivan Chernukha. All rights reserved."]}],["$","div",null,{"className":"mt-4 flex justify-center space-x-6","children":[["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white","children":"GitHub"}],["$","a",null,{"href":"https://linkedin.com","target":"_blank","rel":"noopener noreferrer","className":"text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white","children":"LinkedIn"}]]}]]}]}]}]]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","vscode-devcontainers-gpu","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/127656ccb8f4e71c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
+6:["$","article",null,{"className":"mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-12","children":[["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 dark:text-white mb-4","children":"VSCode and DevContainers setup for open-source development"}],["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400","children":[["$","time",null,{"dateTime":"2024-09-26","children":"September 26, 2024"}],"$undefined","$undefined"]}],["$","div",null,{"className":"flex gap-2 mt-4","children":[["$","span","llm",{"className":"px-3 py-1 bg-gray-100 dark:bg-gray-700 rounded-md text-sm","children":"llm"}],["$","span","development",{"className":"px-3 py-1 bg-gray-100 dark:bg-gray-700 rounded-md text-sm","children":"development"}]]}]]}],["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none","children":"$L11"}]]}]
+12:T446,# Use the official Ubuntu base image
+FROM ubuntu:20.04
+
+# Set environment variables to non-interactive
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Install necessary dependencies
+RUN apt-get update && apt-get install -y \
+    software-properties-common \
+    && add-apt-repository ppa:deadsnakes/ppa \
+    && apt-get update && apt-get install -y \
+    python3.10 \
+    python3.10-dev \
+    python3.10-distutils \
+    build-essential \
+    cmake \
+    git \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Update alternatives to set python3.10 as the default python3
+RUN update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.10 1
+
+# Install pip for Python 3.10
+RUN curl -sS https://bootstrap.pypa.io/get-pip.py | python3.10
+
+# Install PyTorch with CUDA support for GPU acceleration
+RUN pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# Install additional Python libraries
+RUN pip3 install transformers datasets accelerate
+
+# Set the working directory
+WORKDIR /workspace
+
+# Default command to keep the container running
+CMD ["/bin/bash"]
+11:[["$","p",null,{"children":"Recently I got a Windows based Lenovo laptop with RTX 4090 and it was a time to figure out the best development setup for ML and LLM development, especially as I wanted to try and modify open-source libraries.\nSo if you struggle with reusing same environment for different projects, or wanna save on time for enviornment rebuild, here is my setup with VSCode and DevContainers that I use. Sometimes I may need to switch to WSL, but generally, DevContainers don't have problems or invonveniances at all."}],"\n",["$","p",null,{"children":"My only preference is to avoid using \"Open Folder in Container\" (as it's slow and upredictable), but instead, I am using option \"Attach to a running container...\". Let's dive into this."}],"\n",["$","h2",null,{"children":"Instruction"}],"\n",["$","ol",null,{"children":["\n",["$","li",null,{"children":"Place Dockerfile in the working repository (dockerfile template is below). Modify lines for pip install to install packages required for repo development (I like to install all required packages to save time during development)."}],"\n",["$","li",null,{"children":["Build Docker image: ",["$","code",null,{"children":"docker build -t devimage"}]]}],"\n",["$","li",null,{"children":"Run docker in a detached mode. Mount current directory(!), pass gpu flag and optionally expose port:"}],"\n"]}],"\n",["$","pre",null,{"children":["$","code",null,{"className":"language-bash","children":"docker.exe run --rm -dit --gpus=all -v ${PWD}:/workspace -p 8887:8887 --ipc=host devimage:latest\n"}]}],"\n",["$","ol",null,{"start":"4","children":["\n",["$","li",null,{"children":["In VScode, Install extension 'Dev Containers'. Then, press ",["$","code",null,{"children":"Ctrl + p"}]," -> type ",["$","code",null,{"children":"> Dev Containers: Attach to Running Container..."}]," -> Select newly created container."]}],"\n",["$","li",null,{"children":"At just created window by VSCode, open '/workspace' folder."}],"\n",["$","li",null,{"children":"Now you can update code, rebuild packages, download files, etc with a fully isolated environment!"}],"\n"]}],"\n",["$","h2",null,{"children":"Dockerfile"}],"\n",["$","pre",null,{"children":["$","code",null,{"className":"language-dockerfile","children":"$12"}]}],"\n",["$","p",null,{"children":"This setup provides a clean, isolated environment for ML/LLM development with GPU support!"}]]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"Tech Blog - Ivan Chernukha"}],["$","meta","1",{"name":"description","content":"Let's put AI to do the work :)"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
